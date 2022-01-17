@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.43c86f1c.css",
+    "main.js": "/my-portfolio/static/js/main.0d0f6f93.js",
+    "static/media/ahror_sulaymanov.pdf": "/my-portfolio/static/media/ahror_sulaymanov.5f575ba7e3b971fed367.pdf",
+    "static/media/portfolio-image.jpg": "/my-portfolio/static/media/portfolio-image.d8bec77530115124b8f1.jpg",
+    "static/media/illustration.svg": "/my-portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
+    "static/media/sass-icon.svg": "/my-portfolio/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
+    "static/media/mysql-icon.svg": "/my-portfolio/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
+    "static/media/node-icon.svg": "/my-portfolio/static/media/node-icon.3dc364b8e9beb3561620274aea4f0844.svg",
+    "static/media/typescript-icon.svg": "/my-portfolio/static/media/typescript-icon.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/bootstrap-icon.svg": "/my-portfolio/static/media/bootstrap-icon.be374cc9bd654654918df2362bcfb240.svg",
+    "static/media/react-icon.svg": "/my-portfolio/static/media/react-icon.f1484e295933af0e748d6a01b05a8361.svg",
+    "index.html": "/my-portfolio/index.html",
+    "static/media/phone-icon.svg": "/my-portfolio/static/media/phone-icon.91617f27ac814ef5f29b533ab3d256ec.svg",
+    "static/media/email-icon.svg": "/my-portfolio/static/media/email-icon.a83578f914460e952501546655b76165.svg",
+    "static/media/html-icon.svg": "/my-portfolio/static/media/html-icon.ebfc51e406097a90691ab82f1aa72db3.svg",
+    "static/media/css-icon.svg": "/my-portfolio/static/media/css-icon.60a6c50d5a470990f63ee17a3bbd9178.svg",
+    "static/media/vscode-icon.svg": "/my-portfolio/static/media/vscode-icon.3001bc63a45d488b7d2c332e4a2059ad.svg",
+    "static/media/js-icon.svg": "/my-portfolio/static/media/js-icon.ffcf56dc5498f7bbbec802191c740e5f.svg",
+    "static/media/vue-icon.svg": "/my-portfolio/static/media/vue-icon.c286d2da48ffbf281f407b0c4c94271f.svg",
+    "static/media/github-icon.svg": "/my-portfolio/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
+    "static/media/external-link-icon.svg": "/my-portfolio/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
+    "main.43c86f1c.css.map": "/my-portfolio/static/css/main.43c86f1c.css.map",
+    "main.0d0f6f93.js.map": "/my-portfolio/static/js/main.0d0f6f93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.43c86f1c.css",
+    "static/js/main.0d0f6f93.js"
+  ]
+}
