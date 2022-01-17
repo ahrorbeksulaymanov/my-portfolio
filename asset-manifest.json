@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.43c86f1c.css",
-    "main.js": "/my-portfolio/static/js/main.0d0f6f93.js",
+    "main.js": "/my-portfolio/static/js/main.bf950baf.js",
     "static/media/ahror_sulaymanov.pdf": "/my-portfolio/static/media/ahror_sulaymanov.5f575ba7e3b971fed367.pdf",
     "static/media/portfolio-image.jpg": "/my-portfolio/static/media/portfolio-image.d8bec77530115124b8f1.jpg",
+    "static/media/telegram.png": "/my-portfolio/static/media/telegram.1b722a57c2ce8ff2980a.png",
     "static/media/illustration.svg": "/my-portfolio/static/media/illustration.cf4b7a67f23b684549c4f797c62b527a.svg",
     "static/media/sass-icon.svg": "/my-portfolio/static/media/sass-icon.8351205a93eafac2e392b26acf7580e1.svg",
     "static/media/mysql-icon.svg": "/my-portfolio/static/media/mysql-icon.e5a509a5d3ca7443ae6ccf379181381d.svg",
@@ -22,10 +23,10 @@
     "static/media/github-icon.svg": "/my-portfolio/static/media/github-icon.c48bfb2a53c47ee345a50672e3d24e07.svg",
     "static/media/external-link-icon.svg": "/my-portfolio/static/media/external-link-icon.97075d22dfb22a8c8d253b264e892b5f.svg",
     "main.43c86f1c.css.map": "/my-portfolio/static/css/main.43c86f1c.css.map",
-    "main.0d0f6f93.js.map": "/my-portfolio/static/js/main.0d0f6f93.js.map"
+    "main.bf950baf.js.map": "/my-portfolio/static/js/main.bf950baf.js.map"
   },
   "entrypoints": [
     "static/css/main.43c86f1c.css",
-    "static/js/main.0d0f6f93.js"
+    "static/js/main.bf950baf.js"
   ]
 }
