@@ -1,5 +1,4 @@
 import { Container } from "./styles";
-import ScrollAnimation from "react-animate-on-scroll";
 import intalim from '../../assets/intalim.png'
 import bianchi from '../../assets/bianchi.png'
 import arabiya from '../../assets/al-arabiya.png'
@@ -18,7 +17,6 @@ export function Portfolio() {
 
       <div className="projects">
 
-        <ScrollAnimation animateIn="flipInX">
           <a target='_blank' href='https://intalim.uz/'>
             <div className="project">
               <div className="body">
@@ -42,9 +40,7 @@ export function Portfolio() {
               </footer>
             </div>
           </a>
-        </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
           <a target='_blank' href='https://clinic.proacademy.uz'>
             <div className="project">
               <div className="body">
@@ -68,9 +64,7 @@ export function Portfolio() {
               </footer>
             </div>
           </a>
-        </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
           <a target='_blank' href='https://bianchiwater.uz'>
           <div className="project">
             <div className="body">
@@ -92,9 +86,7 @@ export function Portfolio() {
             </footer>
           </div>
           </a>
-        </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
           <a target='_blank' href='https://theprocess.uz/'>
           <div className="project">
             <div className="body">
@@ -116,9 +108,7 @@ export function Portfolio() {
             </footer>
           </div>
           </a>
-        </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
           <a target='_blank' href='https://al-arabiya.uz'>
           <div className="project">
             <div className="body">
@@ -140,9 +130,7 @@ export function Portfolio() {
             </footer>
           </div>
           </a>
-        </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
           <a target='_blank' href='https://tian.uz/'>
           <div className="project">
             <div className="body">
@@ -163,9 +151,7 @@ export function Portfolio() {
             </footer>
           </div>
           </a>
-        </ScrollAnimation>
         
-        <ScrollAnimation animateIn="flipInX">
           <a target='_blank' href='https://info.tian.uz'>
           <div className="project">
             <div className="body">
@@ -186,9 +172,7 @@ export function Portfolio() {
             </footer>
           </div>
           </a>
-        </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
           <a target='_blank' href='https://poytaxtyoshlari.uz'>
           <div className="project">
             <div className="body">
@@ -211,9 +195,7 @@ export function Portfolio() {
             </footer>
           </div>
           </a>
-        </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
           <a target='_blank' href='http://reception.tsul.uz/login'>
           <div className="project">
             <div className="body">
@@ -237,9 +219,7 @@ export function Portfolio() {
             </footer>
           </div>
           </a>
-        </ScrollAnimation>
 
-        <ScrollAnimation animateIn="flipInX">
           <a target='_blank' href='https://online-shop-next-silk.vercel.app/'>
           <div className="project">
             <div className="body">
@@ -263,7 +243,6 @@ export function Portfolio() {
             </footer>
           </div>
           </a>
-        </ScrollAnimation>
 
       </div>
     </Container>

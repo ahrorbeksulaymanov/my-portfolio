@@ -1,7 +1,5 @@
 import { Container } from './styles'
 
-import reactIcon from '../../assets/react-icon.svg'
-
 export function Footer() {
   return (
     <Container className="footer">
@@ -11,7 +9,7 @@ export function Footer() {
       </a>
       <div>
         <p>
-        This site <img src={reactIcon} alt="React" /> created with so many things
+        This site created with so many things
         </p>
       </div>
 
