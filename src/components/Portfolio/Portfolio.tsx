@@ -9,6 +9,7 @@ import reseption from '../../assets/reseption.png'
 import shop from '../../assets/shop.png'
 import yoshlar from '../../assets/yoshlar.png'
 import clinic from '../../assets/clinic.png'
+import topskill from '../../assets/topskill.png'
 
 export function Portfolio() {
   return (
@@ -221,27 +222,51 @@ export function Portfolio() {
           </a>
 
           <a target='_blank' href='https://online-shop-next-silk.vercel.app/'>
-          <div className="project">
-            <div className="body">
-            <img src={shop} style={{width:"100%", borderRadius:"8px"}} alt="" />
-                <h3>Online Shop</h3>
-              <p>I created this site for my portfolio.</p>
-            </div>
-            <footer>
-            <ul className="tech-list">
-                <li>Html</li>
-                <li>Css</li>
-                <li>Sass</li>
-                <li>Bootstrap</li>
-                <li>Antd design</li>
-              </ul>
+            <div className="project">
+              <div className="body">
+              <img src={shop} style={{width:"100%", borderRadius:"8px"}} alt="" />
+                  <h3>Online Shop</h3>
+                <p>I created this site for my portfolio.</p>
+              </div>
+              <footer>
               <ul className="tech-list">
-                <li>JavaScript</li>
-                <li>Next js</li>
-                <li>Redux</li>
-              </ul>
-            </footer>
-          </div>
+                  <li>Html</li>
+                  <li>Css</li>
+                  <li>Sass</li>
+                  <li>Bootstrap</li>
+                  <li>Antd design</li>
+                </ul>
+                <ul className="tech-list">
+                  <li>JavaScript</li>
+                  <li>Next js</li>
+                  <li>Redux</li>
+                </ul>
+              </footer>
+            </div>
+          </a>
+
+          <a target='_blank' href='https://topskill-next-new.vercel.app/'>
+            <div className="project">
+              <div className="body">
+              <img src={topskill} style={{width:"100%", borderRadius:"8px"}} alt="" />
+                  <h3>Topskill online education platform</h3>
+                <p>I created this site for Topskill.</p>
+              </div>
+              <footer>
+              <ul className="tech-list">
+                  <li>Html</li>
+                  <li>Css</li>
+                  <li>Sass</li>
+                  <li>Bootstrap</li>
+                  <li>Antd design</li>
+                </ul>
+                <ul className="tech-list">
+                  <li>JavaScript</li>
+                  <li>TypeScript</li>
+                  <li>Next js</li>
+                </ul>
+              </footer>
+            </div>
           </a>
 
       </div>
