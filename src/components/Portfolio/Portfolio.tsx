@@ -10,6 +10,7 @@ import shop from '../../assets/shop.png'
 import yoshlar from '../../assets/yoshlar.png'
 import clinic from '../../assets/clinic.png'
 import topskill from '../../assets/topskill.png'
+import stiTransportation from '../../assets/sti-transportation.png'
 
 export function Portfolio() {
   return (
@@ -17,6 +18,58 @@ export function Portfolio() {
       <h2>My portfolio</h2>
 
       <div className="projects">
+
+        <a target='_blank' href='https://topskill.uz/'>
+            <div className="project">
+              <div className="body">
+              <img src={topskill} style={{width:"100%", borderRadius:"8px"}} alt="" />
+                  <h3>Topskill online education platform</h3>
+                <p>I created this site and admin dashboard for Topskill</p>
+              </div>
+              <footer>
+              <ul className="tech-list">
+                  <li>Html</li>
+                  <li>Css</li>
+                  <li>Sass</li>
+                  <li>Bootstrap</li>
+                  <li>Antd design</li>
+                </ul>
+                <ul className="tech-list">
+                  <li>JavaScript</li>
+                  <li>TypeScript</li>
+                  <li>Next js</li>
+                  <li>React query</li>
+                  <li>Web socket</li>
+                </ul>
+              </footer>
+            </div>
+          </a>
+
+          <a target='_blank' href='https://stitransportation.com/'>
+            <div className="project">
+              <div className="body">
+                <img src={stiTransportation} style={{width:"100%", borderRadius:"8px"}} alt="" />
+                <h3>STI Transportation</h3>
+                <p>I prepared this site for an American logistics company</p>
+              </div>
+              <footer>
+              <ul className="tech-list">
+                  <li>Html</li>
+                  <li>Css</li>
+                  <li>Sass</li>
+                  <li>Bootstrap</li>
+                  <li>Antd design</li>
+                </ul>
+                <ul className="tech-list">
+                  <li>JavaScript</li>
+                  <li>TypeScript</li>
+                  <li>Next js</li>
+                  <li>React query</li>
+                  <li>Web socket</li>
+                </ul>
+              </footer>
+            </div>
+          </a>
 
           <a target='_blank' href='https://intalim.uz/'>
             <div className="project">
@@ -131,27 +184,6 @@ export function Portfolio() {
             </footer>
           </div>
           </a>
-
-          <a target='_blank' href='https://tian.uz/'>
-          <div className="project">
-            <div className="body">
-              <img src={tian} style={{width:"100%", borderRadius:"8px"}} alt="" />
-                <h3>Tian</h3>
-              <p>This site helps to find a house, apartment, office. I was involved in the frontend of this site</p>
-            </div>
-            <footer>
-            <ul className="tech-list">
-                <li>Html</li>
-                <li>Css</li>
-                <li>Bootstrap</li>
-              </ul>
-              <ul className="tech-list">
-                <li>JavaScript</li>
-                <li>React js</li>
-              </ul>
-            </footer>
-          </div>
-          </a>
         
           <a target='_blank' href='https://info.tian.uz'>
           <div className="project">
@@ -220,55 +252,6 @@ export function Portfolio() {
             </footer>
           </div>
           </a>
-
-          <a target='_blank' href='https://online-shop-next-silk.vercel.app/'>
-            <div className="project">
-              <div className="body">
-              <img src={shop} style={{width:"100%", borderRadius:"8px"}} alt="" />
-                  <h3>Online Shop</h3>
-                <p>I created this site for my portfolio.</p>
-              </div>
-              <footer>
-              <ul className="tech-list">
-                  <li>Html</li>
-                  <li>Css</li>
-                  <li>Sass</li>
-                  <li>Bootstrap</li>
-                  <li>Antd design</li>
-                </ul>
-                <ul className="tech-list">
-                  <li>JavaScript</li>
-                  <li>Next js</li>
-                  <li>Redux</li>
-                </ul>
-              </footer>
-            </div>
-          </a>
-
-          <a target='_blank' href='https://topskill-next-new.vercel.app/'>
-            <div className="project">
-              <div className="body">
-              <img src={topskill} style={{width:"100%", borderRadius:"8px"}} alt="" />
-                  <h3>Topskill online education platform</h3>
-                <p>I created this site for Topskill.</p>
-              </div>
-              <footer>
-              <ul className="tech-list">
-                  <li>Html</li>
-                  <li>Css</li>
-                  <li>Sass</li>
-                  <li>Bootstrap</li>
-                  <li>Antd design</li>
-                </ul>
-                <ul className="tech-list">
-                  <li>JavaScript</li>
-                  <li>TypeScript</li>
-                  <li>Next js</li>
-                </ul>
-              </footer>
-            </div>
-          </a>
-
       </div>
     </Container>
   );

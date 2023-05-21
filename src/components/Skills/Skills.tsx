@@ -65,7 +65,7 @@ export function Skills() {
 
         <div style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <div className="skill-shape">
-            <div style={{width:"60%"}} className="skill-shape-in">
+            <div style={{width:"70%"}} className="skill-shape-in">
               <div>Next JS</div>
             </div>
           </div>
@@ -73,7 +73,7 @@ export function Skills() {
 
         <div style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <div className="skill-shape">
-            <div style={{width:"55%"}} className="skill-shape-in">
+            <div style={{width:"65%"}} className="skill-shape-in">
               <div>TypeScript</div>
             </div>
           </div>
@@ -89,8 +89,24 @@ export function Skills() {
 
         <div style={{ marginTop: "2rem", marginBottom: "2rem" }}>
           <div className="skill-shape">
+            <div style={{width:"45%"}} className="skill-shape-in">
+              <div>Web Socket</div>
+            </div>
+          </div>
+        </div>
+
+        <div style={{ marginTop: "2rem", marginBottom: "2rem" }}>
+          <div className="skill-shape">
             <div style={{width:"70%"}} className="skill-shape-in">
               <div>Tailwind</div>
+            </div>
+          </div>
+        </div>
+
+        <div style={{ marginTop: "2rem", marginBottom: "2rem" }}>
+          <div className="skill-shape">
+            <div style={{width:"60%"}} className="skill-shape-in">
+              <div>React-Query</div>
             </div>
           </div>
         </div>

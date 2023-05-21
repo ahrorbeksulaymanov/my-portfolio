@@ -14,7 +14,7 @@ export const Container = styled.section`
       height: 20.5px;
       background-color: #23C868;
       div{
-        width: 90px;
+        width: 110px;
         height: 20.5px;
         background-color: #00994d;
         padding: 0px 10px;
