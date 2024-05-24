@@ -2,14 +2,15 @@ import { Container } from "./styles";
 import intalim from '../../assets/intalim.png'
 import bianchi from '../../assets/bianchi.png'
 import arabiya from '../../assets/al-arabiya.png'
-import tian from '../../assets/tian.png'
 import infotian from '../../assets/info-tian.png'
 import process from '../../assets/process.png'
 import reseption from '../../assets/reseption.png'
-import shop from '../../assets/shop.png'
+import qabul from '../../assets/perfect-qabul.png'
+import eutas from '../../assets/eutas.png'
 import yoshlar from '../../assets/yoshlar.png'
-import clinic from '../../assets/clinic.png'
 import topskill from '../../assets/topskill.png'
+import easttour from '../../assets/east-tour.png'
+import converterbot from '../../assets/converter-bot.png'
 import stiTransportation from '../../assets/sti-transportation.png'
 
 export function Portfolio() {
@@ -20,37 +21,126 @@ export function Portfolio() {
       <div className="projects">
 
         <a target='_blank' href='https://topskill.uz/'>
-            <div className="project">
-              <div className="body">
-              <img src={topskill} style={{width:"100%", borderRadius:"8px"}} alt="" />
-                  <h3>Topskill online education platform</h3>
-                <p>I created this site and admin dashboard for Topskill</p>
-              </div>
-              <footer>
-              <ul className="tech-list">
-                  <li>Html</li>
-                  <li>Css</li>
-                  <li>Sass</li>
-                  <li>Bootstrap</li>
-                  <li>Antd design</li>
-                </ul>
-                <ul className="tech-list">
-                  <li>JavaScript</li>
-                  <li>TypeScript</li>
-                  <li>Next js</li>
-                  <li>React query</li>
-                  <li>Web socket</li>
-                </ul>
-              </footer>
+          <div className="project">
+            <div className="body">
+            <img src={topskill} style={{width:"100%", borderRadius:"8px"}} alt="" />
+                <h3>Topskill online education platform</h3>
+              <p>I created this site and admin dashboard for Topskill</p>
             </div>
-          </a>
+            <footer>
+            <ul className="tech-list">
+                <li>Html</li>
+                <li>Css</li>
+                <li>Sass</li>
+                <li>Bootstrap</li>
+                <li>Antd design</li>
+              </ul>
+              <ul className="tech-list">
+                <li>JavaScript</li>
+                <li>TypeScript</li>
+                <li>Next js</li>
+                <li>React query</li>
+                <li>Web socket</li>
+              </ul>
+            </footer>
+          </div>
+        </a>
+
+        <a target='_blank' href='https://qabul.perfectuniversity.uz'>
+          <div className="project">
+            <div className="body">
+            <img src={qabul} style={{width:"100%", borderRadius:"8px"}} alt="" />
+                <h3>Admission platform for Tashkent Perfect University</h3>
+              <p>I created this site and admin dashboard for Tashkent Perfect University</p>
+            </div>
+            <footer>
+            <ul className="tech-list">
+                <li>Html</li>
+                <li>Css</li>
+                <li>Sass</li>
+                <li>Antd design</li>
+              </ul>
+              <ul className="tech-list">
+                <li>JavaScript</li>
+                <li>TypeScript</li>
+                <li>React.js</li>
+                <li>React query</li>
+              </ul>
+            </footer>
+          </div>
+        </a>
+          
+        <a target='_blank' href='https://eutas.uz/'>
+          <div className="project">
+            <div className="body">
+            <img src={eutas} style={{width:"100%", borderRadius:"8px"}} alt="" />
+                <h3>Information system for management of educational processes University of Tashkent for Applied Sciences</h3>
+              <p>I work as the main front-end developer on this project</p>
+            </div>
+            <footer>
+            <ul className="tech-list">
+                <li>Html</li>
+                <li>Css</li>
+                <li>Sass</li>
+                <li>Antd design</li>
+              </ul>
+              <ul className="tech-list">
+                <li>JavaScript</li>
+                <li>TypeScript</li>
+                <li>React.js</li>
+                <li>React query</li>
+              </ul>
+            </footer>
+          </div>
+        </a>
+
+        <a target='_blank' href='https://easttour.uz'>
+          <div className="project">
+            <div className="body">
+            <img src={easttour} style={{width:"100%", borderRadius:"8px"}} alt="" />
+                <h3>East Tour is a tourist service agency</h3>
+                <p>I work as the main front-end developer on this project</p>
+            </div>
+            <footer>
+            <ul className="tech-list">
+                <li>Html</li>
+                <li>Css</li>
+                <li>Sass</li>
+                <li>Antd design</li>
+              </ul>
+              <ul className="tech-list">
+                <li>JavaScript</li>
+                <li>TypeScript</li>
+                <li>Next.js</li>
+                <li>React.js</li>
+                <li>React query</li>
+              </ul>
+            </footer>
+          </div>
+        </a>
+
+        <a target='_blank' href='https://t.me/fileconverter_uz_bot'>
+          <div className="project">
+            <div className="body">
+            <img src={converterbot} style={{width:"100%", borderRadius:"8px"}} alt="" />
+                <h3>File fromat changer telegram bot</h3>
+                <p>I created telegram bot with node.js</p>
+            </div>
+            <footer>
+              <ul className="tech-list">
+                <li>JavaScript</li>
+                <li>Node.js</li>
+              </ul>
+            </footer>
+          </div>
+        </a>
 
           <a target='_blank' href='https://stitransportation.com/'>
             <div className="project">
               <div className="body">
                 <img src={stiTransportation} style={{width:"100%", borderRadius:"8px"}} alt="" />
                 <h3>STI Transportation</h3>
-                <p>I prepared this site for an American logistics company</p>
+                <p>I created this site for an American logistics company</p>
               </div>
               <footer>
               <ul className="tech-list">
@@ -77,30 +167,6 @@ export function Portfolio() {
                 <img src={intalim} style={{width:"100%", borderRadius:"8px"}} alt="" />
                 <h3>InTalim</h3>
                 <p>This system is a driving school system. This platform is a great convenience for school administration and for school students. I was involved in the preparation of the front end part of this platform</p>
-              </div>
-              <footer>
-              <ul className="tech-list">
-                  <li>Html</li>
-                  <li>Css</li>
-                  <li>Sass</li>
-                  <li>Bootstrap</li>
-                  <li>Antd design</li>
-                </ul>
-                <ul className="tech-list">
-                  <li>JavaScript</li>
-                  <li>React js</li>
-                  <li>Redux</li>
-                </ul>
-              </footer>
-            </div>
-          </a>
-
-          <a target='_blank' href='https://clinic.proacademy.uz'>
-            <div className="project">
-              <div className="body">
-                <img src={clinic} style={{width:"100%", borderRadius:"8px"}} alt="" />
-                <h3>Legal Clinic</h3>
-                <p>This system allows people to get legal advice for free and online. I was involved in the preparation of the front end part of this site.</p>
               </div>
               <footer>
               <ul className="tech-list">

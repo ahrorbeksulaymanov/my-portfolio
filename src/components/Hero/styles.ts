@@ -6,6 +6,7 @@ export const Container = styled.section`
   padding-top: 15%;
   display: flex;
   justify-content: space-between;
+  align-items:center;
   gap: 8rem;
   background: rgba(0,0,0,0);
   .hero-text{
