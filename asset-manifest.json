@@ -1,29 +1,25 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.43c86f1c.css",
-    "main.js": "/my-portfolio/static/js/main.77a83f1b.js",
+    "main.js": "/my-portfolio/static/js/main.b343140b.js",
     "static/media/east-tour.png": "/my-portfolio/static/media/east-tour.430b21fe5fbe9d6d149f.png",
     "static/media/info-tian.png": "/my-portfolio/static/media/info-tian.062a0c4e7f9e16c12ec4.png",
-    "static/media/process.png": "/my-portfolio/static/media/process.ba3ac109332f4dadb663.png",
     "static/media/bianchi.png": "/my-portfolio/static/media/bianchi.5d603587c0d5a918ba92.png",
-    "static/media/sti-transportation.png": "/my-portfolio/static/media/sti-transportation.79ad814ec67e3e547f08.png",
-    "static/media/yoshlar.png": "/my-portfolio/static/media/yoshlar.ec66e15b1a512e2e95ca.png",
-    "static/media/al-arabiya.png": "/my-portfolio/static/media/al-arabiya.d5f388d432589d83fddf.png",
+    "static/media/qurbonov-school.png": "/my-portfolio/static/media/qurbonov-school.4e85cd1f76ff799388bf.png",
     "static/media/mee.png": "/my-portfolio/static/media/mee.e05dc4a1adbdf86fd531.png",
-    "static/media/perfect-qabul.png": "/my-portfolio/static/media/perfect-qabul.52a844345a44b6e268ce.png",
     "static/media/utas-logo.png": "/my-portfolio/static/media/utas-logo.01e66bff4c1e990cae8b.png",
-    "static/media/resume.pdf": "/my-portfolio/static/media/resume.b64357a03713be747f26.pdf",
     "static/media/topskill.png": "/my-portfolio/static/media/topskill.21bb8a07df43a3b77365.png",
     "static/media/intalim.png": "/my-portfolio/static/media/intalim.0fe36798b8f0facfa65d.png",
     "static/media/converter-bot.png": "/my-portfolio/static/media/converter-bot.ed098ba73974b6da598e.png",
+    "static/media/resume.pdf": "/my-portfolio/static/media/resume.3652d7160fb9d113caf3.pdf",
     "static/media/eutas.png": "/my-portfolio/static/media/eutas.357481b31a1568443853.png",
     "static/media/reseption.png": "/my-portfolio/static/media/reseption.f38f3a669d62e40fda88.png",
     "index.html": "/my-portfolio/index.html",
     "main.43c86f1c.css.map": "/my-portfolio/static/css/main.43c86f1c.css.map",
-    "main.77a83f1b.js.map": "/my-portfolio/static/js/main.77a83f1b.js.map"
+    "main.b343140b.js.map": "/my-portfolio/static/js/main.b343140b.js.map"
   },
   "entrypoints": [
     "static/css/main.43c86f1c.css",
-    "static/js/main.77a83f1b.js"
+    "static/js/main.b343140b.js"
   ]
 }
