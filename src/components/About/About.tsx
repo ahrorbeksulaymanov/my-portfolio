@@ -14,7 +14,7 @@ export function About() {
       img: utasLogo,
       position: "Front-end developer",
       company: "University of Tashkent for Applied Sciences · Full-time",
-      duration: "Jan 2024 - Present · 5 mos",
+      duration: "Jan 2024 - Present · 9 mos",
       location: "Tashkent, Uzbekistan",
       type: "On-site",
       task: "Project overview: The project includes the internal system of the University and monitors the student learning process. It also includes all student features such as attendance, evaluation, documents, class schedules. The project has dynamic permissions on dynamic roles and provides complete control over learning and workflow for the university",

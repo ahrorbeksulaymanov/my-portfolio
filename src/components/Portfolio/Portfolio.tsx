@@ -6,6 +6,7 @@ import infotian from '../../assets/info-tian.png'
 import process from '../../assets/process.png'
 import reseption from '../../assets/reseption.png'
 import qabul from '../../assets/perfect-qabul.png'
+import qurbonovSchool from '../../assets/qurbonov-school.png'
 import eutas from '../../assets/eutas.png'
 import yoshlar from '../../assets/yoshlar.png'
 import topskill from '../../assets/topskill.png'
@@ -46,7 +47,7 @@ export function Portfolio() {
           </div>
         </a>
 
-        <a target='_blank' href='https://qabul.perfectuniversity.uz'>
+        {/* <a target='_blank' href='https://qabul.perfectuniversity.uz'>
           <div className="project">
             <div className="body">
             <img src={qabul} style={{width:"100%", borderRadius:"8px"}} alt="" />
@@ -68,7 +69,7 @@ export function Portfolio() {
               </ul>
             </footer>
           </div>
-        </a>
+        </a> */}
           
         <a target='_blank' href='https://eutas.uz/'>
           <div className="project">
@@ -89,6 +90,29 @@ export function Portfolio() {
                 <li>TypeScript</li>
                 <li>React.js</li>
                 <li>React query</li>
+              </ul>
+            </footer>
+          </div>
+        </a>
+
+        <a target='_blank' href='https://www.qurbonov-school.uz'>
+          <div className="project">
+            <div className="body">
+            <img src={qurbonovSchool} style={{width:"100%", borderRadius:"8px"}} alt="" />
+                <h3>Qurbonov school landing page</h3>
+              <p>I created this site for Qurbonov school</p>
+            </div>
+            <footer>
+            <ul className="tech-list">
+                <li>Html</li>
+                <li>Css</li>
+                <li>Sass</li>
+                <li>Tailwind</li>
+              </ul>
+              <ul className="tech-list">
+                <li>JavaScript</li>
+                <li>TypeScript</li>
+                <li>Next.js</li>
               </ul>
             </footer>
           </div>
@@ -135,7 +159,7 @@ export function Portfolio() {
           </div>
         </a>
 
-          <a target='_blank' href='https://stitransportation.com/'>
+          {/* <a target='_blank' href='https://stitransportation.com/'>
             <div className="project">
               <div className="body">
                 <img src={stiTransportation} style={{width:"100%", borderRadius:"8px"}} alt="" />
@@ -159,7 +183,7 @@ export function Portfolio() {
                 </ul>
               </footer>
             </div>
-          </a>
+          </a> */}
 
           <a target='_blank' href='https://intalim.uz/'>
             <div className="project">
@@ -207,7 +231,7 @@ export function Portfolio() {
           </div>
           </a>
 
-          <a target='_blank' href='https://theprocess.uz/'>
+          {/* <a target='_blank' href='https://theprocess.uz/'>
           <div className="project">
             <div className="body">
               <img src={process} style={{width:"100%", borderRadius:"8px"}} alt="" />
@@ -227,9 +251,9 @@ export function Portfolio() {
               </ul>
             </footer>
           </div>
-          </a>
+          </a> */}
 
-          <a target='_blank' href='https://al-arabiya.uz'>
+          {/* <a target='_blank' href='https://al-arabiya.uz'>
           <div className="project">
             <div className="body">
                 <img src={arabiya} style={{width:"100%", borderRadius:"8px"}} alt="" />
@@ -249,7 +273,7 @@ export function Portfolio() {
               </ul>
             </footer>
           </div>
-          </a>
+          </a> */}
         
           <a target='_blank' href='https://info.tian.uz'>
           <div className="project">
@@ -272,7 +296,7 @@ export function Portfolio() {
           </div>
           </a>
 
-          <a target='_blank' href='https://poytaxtyoshlari.uz'>
+          {/* <a target='_blank' href='https://poytaxtyoshlari.uz'>
           <div className="project">
             <div className="body">
                 <img src={yoshlar} style={{width:"100%", borderRadius:"8px"}} alt="" />
@@ -293,7 +317,7 @@ export function Portfolio() {
               </ul>
             </footer>
           </div>
-          </a>
+          </a> */}
 
           <a target='_blank' href='http://reception.tsul.uz/login'>
           <div className="project">
